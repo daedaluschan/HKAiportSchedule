@@ -6,5 +6,5 @@ I am trying to write a show scrip to capture the arrival / departure schedule & 
 This is still in progress and feel free to provide your comment. :)
 
 Libraries used are quite common 
-* lxlm (for html parsing)
+* lxml (for html parsing)
 * requests (for making HTTP calls)
