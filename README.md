@@ -8,3 +8,4 @@ This is still in progress and feel free to provide your comment. :)
 Libraries used are quite common 
 * lxml (for html parsing)
 * requests (for making HTTP calls)
+* pandas (for data manipulation)
