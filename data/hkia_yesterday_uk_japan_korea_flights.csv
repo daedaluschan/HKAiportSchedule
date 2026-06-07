@@ -1,0 +1,1 @@
+query_date,flight_type,region,route_point,scheduled_time,actual_time,delay_minutes,status,status_code,flight_numbers,airline_codes,terminal,gate,stand,hall,baggage_belt,check_in,transfer_desk
